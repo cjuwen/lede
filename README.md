@@ -127,15 +127,9 @@ PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 
 ## 软路由介绍
 
-iKOOLCORE 硬酷R1 多网口小主机 - N5105/N6005 : Cube box, rest fun. 方寸之间，尽是乐趣
-
-(商品介绍页面 - 深圳市硬酷科技)：
-[Lean用户R1专属券](https://taoquan.taobao.com/coupon/unify_apply.htm?sellerId=1981117776&activityId=3eb8a2ad3c8945ed831b203f44dc218b)
-[N5105下单链接](https://item.taobao.com/item.htm?ft=t&id=682987219699)
-[N6005下单链接](https://item.taobao.com/item.htm?ft=t&id=682672722483)  
+iKOOLCORE 硬酷R1 多网口小主机 - N5105/N6005 : Cube box, rest fun. 方寸之间，尽享乐趣
 
 (商品介绍页面 - 硬酷科技（支持花呗）)：
-[Lean用户R1专属券](https://taoquan.taobao.com/coupon/unify_apply.htm?sellerId=2208215115814&activityId=e013790422b849edb3a71e4e6aa46ff3)
 [下单链接](https://item.taobao.com/item.htm?ft=t&id=682987219699)
 
 [![r1](doc/r1.jpg)](https://item.taobao.com/item.htm?ft=t&id=682025492099)
